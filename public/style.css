@@ -1,0 +1,9 @@
+::-webkit-scrollbar{
+    width: 0;
+    height: 0;
+}
+body{
+    touch-action: pan-y;
+    margin: 0;
+    padding: 0;
+}
