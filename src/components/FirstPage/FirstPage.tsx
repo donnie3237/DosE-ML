@@ -1,7 +1,7 @@
 import React from 'react'
-import './fp.css'
+import './FirstPage.css'
 
-function firstPage() {
+function FirstPage() {
   return (
     <div className='sayhi'>
         <div className="img"></div>
@@ -12,4 +12,4 @@ function firstPage() {
   )
 }
 
-export default firstPage
+export default FirstPage

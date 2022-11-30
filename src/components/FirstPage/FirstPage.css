@@ -11,6 +11,7 @@
     background-color: aqua;
     background: url(./img/logo.png);
     background-size: cover;
+    background-position: center;
     border-radius: 50%;
     margin: 0 auto;
     margin-top: 100px;
