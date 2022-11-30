@@ -1,9 +1,11 @@
+import React from 'react';
 import './App.css';
+import FirstPage from './components/FirstPage/FirstPAge.tsx';
 
 function App() {
   return (
     <div className="App">
-      <h1>TFJS</h1>
+      <FirstPage/>
     </div>
   );
 }

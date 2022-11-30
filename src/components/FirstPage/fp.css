@@ -1,0 +1,32 @@
+.sayhi{
+    width: 100vw;
+    height: 100vh;
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+}
+.sayhi .img{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    background: url(./img/logo.png);
+    background-size: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.sayhi h1{
+    font-size: 40px;
+}
+.sayhi p{
+    margin: 20px 10%;
+}
+.sayhi a{
+    margin: 0 15%;
+    margin-top: 100px;
+    padding: 15px 0;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
