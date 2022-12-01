@@ -5,6 +5,7 @@ import Headers from './components/MainPage/components/Headers/Headers.tsx';
 import { HashRouter as Router,Route,Routes } from 'react-router-dom'
 import MainPage from './components/MainPage/MainPage.tsx';
 import Document from './components/Document/Document.tsx';
+import Model from './components/Model/Model.tsx';
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ function App() {
           <Routes>
               <Route path='/' element={<MainPage/>}></Route>
               <Route path='/document' element={<Document/>}></Route>
+              <Route path='/model' element={<Model/>}></Route>
           </Routes>
       </Router>
     </div>
