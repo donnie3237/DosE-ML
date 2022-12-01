@@ -1,5 +1,6 @@
 import React from 'react'
 import './Headwrs.css'
+import { HashLink } from 'react-router-hash-link'
 
 function Headers() {
     
@@ -40,9 +41,9 @@ function Headers() {
             </div>
         </div>
         <div className="nav">
-            <a href="">HOME</a>
-            <a href="">Document</a>
-            <a href="">GenerateModel</a>
+            <HashLink href="">HOME</HashLink>
+            <HashLink href="">Document</HashLink>
+            <HashLink href="">GenerateModel</HashLink>
         </div>
     </div>
   )
