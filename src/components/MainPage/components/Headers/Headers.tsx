@@ -17,7 +17,7 @@ function Headers() {
         const myNav = document.querySelector('.nav')
         const menu =  document.querySelector('.open')
         const close =document.querySelector('.close')
-        myNav.style.top = '100vh'
+        myNav.style.top = '-100vh'
         myNav.style.transition = 'all 0.5s'
         menu.style.display = 'flex'
         close.style.display = 'none'
