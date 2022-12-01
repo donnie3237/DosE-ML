@@ -4,6 +4,9 @@
     background-color: orange;
     display: flex;
     flex-direction: column;
+    position: absolute;
+    z-index: 2;
+    left: 0;
 }
 .sayhi .img{
     width: 150px;
