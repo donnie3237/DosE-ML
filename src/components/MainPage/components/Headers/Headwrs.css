@@ -39,3 +39,9 @@
 .bi-list{
     color: white;
 }
+.bi-x{
+    color: white;
+}
+.close{
+    display: none;
+}
