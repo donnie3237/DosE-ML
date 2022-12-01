@@ -27,7 +27,8 @@ function Headers() {
     <div className="all">
         <div className="head">
             <div className="logo">
-                <h2>DosE-ML</h2>
+                <img src="./logo.png" alt="" />
+                <h3>DosE-ML</h3>
             </div>
             <div className="but-nav open" onClick={openMenu}>
             <svg xmlns="http://www.w3.org/2000/svg" width="70%" height="70%" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">

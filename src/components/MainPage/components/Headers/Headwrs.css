@@ -10,6 +10,11 @@
 }
 .logo{
     margin-left: 5%;
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 8vh;
 }
 .nav{
     display: flex;
