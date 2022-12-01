@@ -41,9 +41,9 @@ function Headers() {
             </div>
         </div>
         <div className="nav">
-            <HashLink href="">HOME</HashLink>
-            <HashLink href="">Document</HashLink>
-            <HashLink href="">GenerateModel</HashLink>
+            <HashLink to='/document'>HOME</HashLink>
+            <HashLink to='/document'>Document</HashLink>
+            <HashLink to='/document'>GenerateModel</HashLink>
         </div>
     </div>
   )
