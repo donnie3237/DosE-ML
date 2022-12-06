@@ -20,7 +20,7 @@
 <p align="center">สำเร็จแล้ว 10% : Finished 10%</p>
 <div align="center" >
 <a  href="https://drive.google.com/file/d/1VIRZoPof8CIALMVsXkzD3hJjDyaEo3NH/view?usp=share_link">Mobile-App(Android,IOS)</a><br/>
-<a  href="https://drive.google.com/file/d/1L9TzKvUYN3PbX0fyBfLX6sIClEngeNAq/view?usp=share_link">Desktop-App Versin (Windows,MacOS,Linux)</a><br/>
+<a  href="https://drive.google.com/file/d/1MZQDPwD7A7bLGYw39D_nji0y6JgRd2Sx/view?usp=share_link">Desktop-App Versin (Windows,MacOS,Linux)</a><br/>
 <a  href="https://dose-crud.netlify.app/">WEbSite</a><br/>
   <a  href="https://crud-server-7mzw.vercel.app/">Server</a><br/>
 </div>
