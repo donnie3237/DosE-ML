@@ -19,8 +19,8 @@
 <h2 align="center">Status</h2>
 <p align="center">สำเร็จแล้ว 10% : Finished 10%</p>
 <div align="center" >
-<a  href="https://drive.google.com/file/d/1VIRZoPof8CIALMVsXkzD3hJjDyaEo3NH/view?usp=share_link">Mobile-App(Android,IOS)</a><br/>
+<a  href="https://drive.google.com/file/d/1VJ5Ag0BzugNpBkaY5IbyykULC8T9lqZg/view?usp=share_link">Mobile-App(Android,IOS)</a><br/>
 <a  href="https://drive.google.com/file/d/1MZQDPwD7A7bLGYw39D_nji0y6JgRd2Sx/view?usp=share_link">Desktop-App Versin (Windows,MacOS,Linux)</a><br/>
-<a  href="https://dose-crud.netlify.app/">WEbSite</a><br/>
+<a  href="https://regal-jalebi-5c8cee.netlify.app">WEbSite</a><br/>
   <a  href="https://crud-server-7mzw.vercel.app/">Server</a><br/>
 </div>
