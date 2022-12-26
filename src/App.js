@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import FirstPage from './components/FirstPage/FirstPage.tsx';
 import Headers from './components/MainPage/components/Headers/Headers.tsx';
 import { HashRouter as Router,Route,Routes } from 'react-router-dom'
