@@ -4,33 +4,33 @@
     background-color: orange;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     position: absolute;
     z-index: 999;
     left: 0;
-}
-.sayhi .img{
-    width: 150px;
-    height: 150px;
-    background-color: aqua;
-    background: url(./img/logo.png);
-    background-size: cover;
-    background-position: center;
-    border-radius: 50%;
-    margin: 0 auto;
-    margin-top: 100px;
-}
-.sayhi h1{
-    font-size: 40px;
-}
-.sayhi p{
-    margin: 20px 10%;
-}
-.sayhi a{
-    margin: 0 15%;
-    margin-top: 100px;
-    padding: 15px 0;
-    background-color: white;
-    text-decoration: none;
-    color: black;
-    font-weight: 600;
+    top: 0;
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin: 0 auto;
+        margin-top: 100px;
+    }
+    h1{
+        font-size: 40px;
+        margin: 5px;
+    }
+    p{
+        margin: 20px 10%;
+    }
+    a{
+       width: 80vw;
+       height: 50px;
+       background-color: white;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       cursor: pointer;
+    }
 }

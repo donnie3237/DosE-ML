@@ -1,5 +1,5 @@
 import React from 'react'
-import './Doc.css'
+import './Doc.scss'
 
 function Document() {
   return (

@@ -1,6 +1,6 @@
 .head{
     width: 100vw;
-    height: 8vh;
+    height: 10vh;
     background-color: aliceblue;
     display: flex;
     justify-content: space-between;
@@ -12,9 +12,12 @@
     margin-left: 5%;
     display: flex;
     align-items: center;
-}
-.logo img{
-    height: 6vh;
+    img{
+        height: 6vh;
+    }
+    h3{
+        margin-left: 5px;
+    }
 }
 .nav{
     display: flex;

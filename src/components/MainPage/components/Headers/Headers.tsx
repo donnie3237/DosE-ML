@@ -1,5 +1,5 @@
 import React from 'react'
-import './Headwrs.css'
+import './Headwrs.scss'
 import { HashLink } from 'react-router-hash-link'
 
 function Headers() {
@@ -8,7 +8,7 @@ function Headers() {
         const myNav = document.querySelector('.nav')
         const menu =    document.querySelector('.open')
         const close = document.querySelector('.close')
-        myNav.style.top = '8vh'
+        myNav.style.top = '10vh'
         myNav.style.transition = 'all 0.5s'
         menu.style.display = 'none'
         close.style.display = 'flex'
